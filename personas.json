@@ -1,0 +1,38 @@
+{
+    "personas":"Mi familia",
+    "Lista":
+    [
+        {
+            "Nombre":"Valentin",
+            "numerof":17,
+            "trabajo":false,
+            "Nacimiento":"2007-11-15"
+        },
+        {
+            "Nombre":"Franco",
+            "numerof":14,
+            "trabajo":false,
+            "Nacimiento":"2011-10-08"
+        },
+        {
+            "Nombre":"Benicio",
+            "numerof":6,
+            "trabajo":false,
+            "Nacimiento":"2019-03-09"
+        },
+
+        {
+            "Nombre":"Patricia",
+            "numerof":43,
+            "trabajo":false,
+            "Nacimiento":"1982-12-13"
+        },
+
+        {
+            "Nombre":"Sebastian",
+            "numerof":44,
+            "trabajo":true,
+            "Nacimiento":"1981-08-07"
+        }
+    ]
+}
