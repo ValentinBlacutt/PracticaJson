@@ -5,7 +5,7 @@
         {
             "Nombre":"Valentin",
             "numerof":17,
-            "trabajo":false,
+            "trabajo":true,
             "Nacimiento":"2007-11-15"
         },
         {
@@ -35,4 +35,5 @@
             "Nacimiento":"1981-08-07"
         }
     ]
+
 }
