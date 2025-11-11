@@ -1,0 +1,22 @@
+{
+    "planetas":"Sistema solar",
+    "Lista":
+    [
+        {
+            "nombre" : "Jupiter",
+            "numero": 5,
+            "radio":69.9,
+            "tieneAnillos":true,
+            "habitable":false
+        },
+        {
+            "nombre":"Tierra",
+            "numero":3,
+            "continentes":[{"nombre":"America", "paises":["Argentina","Uruguay","Chile","Peru"]},
+            {"nombre":"Asia","paises":["Japon","China","India","Rusia"]}],
+            "radio":6.37,
+            "tieneAnillos":false,
+            "habitable":true
+        }
+    ]
+}
